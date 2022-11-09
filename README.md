@@ -1,3 +1,3 @@
 # PinsMe Social Media - Backend
 
-![preview](./public/PinsMe-Sosmed.png)
+![preview](./PinsMe-Sosmed.png)
